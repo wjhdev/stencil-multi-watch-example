@@ -27,7 +27,7 @@
     "rollup-plugin-node-resolve": "^5.2.0"
   },
   "devDependencies": {
-    "@stencil/core": "^1.12.2"
+    "@stencil/core": "^2.3.0"
   },
   "license": "MIT"
 }
